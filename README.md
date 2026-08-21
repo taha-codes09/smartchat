@@ -117,9 +117,9 @@ This project is licensed under the Apache2.0 License - see the [LICENSE](LICENSE
 ---
 
 ## Author & Contact
+- **Author**: Muhammad Taha
+- **GitHub**: [@taha-codes09](https://github.com/taha-codes09)
+- **Email**: [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)
+- **Profile**: [https://github.com/taha-codes09](https://github.com/taha-codes09)
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
-
+Developed by Taha
