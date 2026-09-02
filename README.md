@@ -1,4 +1,4 @@
-# SmartChat: A Personal AI Assistant
+﻿# SmartChat: A Personal AI Assistant
 
 ## Introduction
 
@@ -44,7 +44,7 @@ Refine AI models to meet your specific needs by uploading training data and sele
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/m-shamim09/smartchat
+   git clone https://github.com/taha-codes09/smartchat
    cd smartchat
    ```
 
